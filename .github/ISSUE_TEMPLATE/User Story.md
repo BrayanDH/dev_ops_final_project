@@ -23,11 +23,6 @@ assignees: ''
 
 ### Acceptance criteria
 
-* The user can place an order quickly and easily
-* The user receives a confirmation email for their order
-* The provider receives the order and can process it quickly and reliably
-* The order function is protected against security threats and vulnerabilities
-
 Given [the user has selected a product and added it to their shopping cart]
 
 When [the user chooses a shipping method and payment option and clicks "Place Order"]
